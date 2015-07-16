@@ -14,6 +14,9 @@
 		A9C67A291B57ED0100010951 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9C67A281B57ED0100010951 /* Images.xcassets */; };
 		A9C67A2C1B57ED0100010951 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A9C67A2A1B57ED0100010951 /* LaunchScreen.xib */; };
 		A9C67A381B57ED0100010951 /* SharryyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C67A371B57ED0100010951 /* SharryyTests.m */; };
+		A9C67A421B57EDA200010951 /* Storyboard_1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9C67A411B57EDA200010951 /* Storyboard_1.storyboard */; };
+		A9C67A441B57EDAD00010951 /* Storyboard_2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9C67A431B57EDAD00010951 /* Storyboard_2.storyboard */; };
+		A9C67A461B57EDB900010951 /* Storyboard_3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9C67A451B57EDB900010951 /* Storyboard_3.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,9 @@
 		A9C67A311B57ED0100010951 /* SharryyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SharryyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9C67A361B57ED0100010951 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A9C67A371B57ED0100010951 /* SharryyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SharryyTests.m; sourceTree = "<group>"; };
+		A9C67A411B57EDA200010951 /* Storyboard_1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_1.storyboard; sourceTree = "<group>"; };
+		A9C67A431B57EDAD00010951 /* Storyboard_2.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_2.storyboard; sourceTree = "<group>"; };
+		A9C67A451B57EDB900010951 /* Storyboard_3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_3.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,8 @@
 		A9C67A0F1B57ED0100010951 = {
 			isa = PBXGroup;
 			children = (
+				A9C67A451B57EDB900010951 /* Storyboard_3.storyboard */,
+				A9C67A431B57EDAD00010951 /* Storyboard_2.storyboard */,
 				A9C67A1A1B57ED0100010951 /* Sharryy */,
 				A9C67A341B57ED0100010951 /* SharryyTests */,
 				A9C67A191B57ED0100010951 /* Products */,
@@ -89,6 +97,7 @@
 				A9C67A281B57ED0100010951 /* Images.xcassets */,
 				A9C67A2A1B57ED0100010951 /* LaunchScreen.xib */,
 				A9C67A1B1B57ED0100010951 /* Supporting Files */,
+				A9C67A411B57EDA200010951 /* Storyboard_1.storyboard */,
 			);
 			path = Sharryy;
 			sourceTree = "<group>";
@@ -202,6 +211,9 @@
 				A9C67A271B57ED0100010951 /* Main.storyboard in Resources */,
 				A9C67A2C1B57ED0100010951 /* LaunchScreen.xib in Resources */,
 				A9C67A291B57ED0100010951 /* Images.xcassets in Resources */,
+				A9C67A461B57EDB900010951 /* Storyboard_3.storyboard in Resources */,
+				A9C67A421B57EDA200010951 /* Storyboard_1.storyboard in Resources */,
+				A9C67A441B57EDAD00010951 /* Storyboard_2.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
