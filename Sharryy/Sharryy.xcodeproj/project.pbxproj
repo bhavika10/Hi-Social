@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A959C48E1B57F24900FA1481 /* Storyboard_2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A959C48C1B57F24900FA1481 /* Storyboard_2.storyboard */; };
-		A959C48F1B57F24900FA1481 /* Storyboard_3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A959C48D1B57F24900FA1481 /* Storyboard_3.storyboard */; };
+		A959C4911B57F29700FA1481 /* Storyboard_2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A959C4901B57F29700FA1481 /* Storyboard_2.storyboard */; };
 		A97CEFAF1B57F2F0000BCBF7 /* Storyboard_1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A97CEFAE1B57F2F0000BCBF7 /* Storyboard_1.storyboard */; };
 		A9C67A1E1B57ED0100010951 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C67A1D1B57ED0100010951 /* main.m */; };
 		A9C67A211B57ED0100010951 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A9C67A201B57ED0100010951 /* AppDelegate.m */; };
@@ -30,8 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A959C48C1B57F24900FA1481 /* Storyboard_2.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_2.storyboard; sourceTree = "<group>"; };
-		A959C48D1B57F24900FA1481 /* Storyboard_3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_3.storyboard; sourceTree = "<group>"; };
+		A959C4901B57F29700FA1481 /* Storyboard_2.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_2.storyboard; sourceTree = "<group>"; };
 		A97CEFAE1B57F2F0000BCBF7 /* Storyboard_1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_1.storyboard; sourceTree = "<group>"; };
 		A9C67A181B57ED0100010951 /* Sharryy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sharryy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9C67A1C1B57ED0100010951 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -87,8 +85,6 @@
 		A9C67A1A1B57ED0100010951 /* Sharryy */ = {
 			isa = PBXGroup;
 			children = (
-				A959C48C1B57F24900FA1481 /* Storyboard_2.storyboard */,
-				A959C48D1B57F24900FA1481 /* Storyboard_3.storyboard */,
 				A9C67A1F1B57ED0100010951 /* AppDelegate.h */,
 				A9C67A201B57ED0100010951 /* AppDelegate.m */,
 				A9C67A221B57ED0100010951 /* ViewController.h */,
@@ -98,6 +94,7 @@
 				A9C67A2A1B57ED0100010951 /* LaunchScreen.xib */,
 				A9C67A1B1B57ED0100010951 /* Supporting Files */,
 				A97CEFAE1B57F2F0000BCBF7 /* Storyboard_1.storyboard */,
+				A959C4901B57F29700FA1481 /* Storyboard_2.storyboard */,
 			);
 			path = Sharryy;
 			sourceTree = "<group>";
@@ -211,9 +208,8 @@
 				A9C67A271B57ED0100010951 /* Main.storyboard in Resources */,
 				A9C67A2C1B57ED0100010951 /* LaunchScreen.xib in Resources */,
 				A9C67A291B57ED0100010951 /* Images.xcassets in Resources */,
-				A959C48F1B57F24900FA1481 /* Storyboard_3.storyboard in Resources */,
 				A97CEFAF1B57F2F0000BCBF7 /* Storyboard_1.storyboard in Resources */,
-				A959C48E1B57F24900FA1481 /* Storyboard_2.storyboard in Resources */,
+				A959C4911B57F29700FA1481 /* Storyboard_2.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
